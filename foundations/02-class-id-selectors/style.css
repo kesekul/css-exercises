@@ -1,0 +1,23 @@
+/* Second Style Guide */
+
+.odd {
+
+    background-color: rgba(255, 0, 255, 0.5);
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgba(65, 202, 47, 0.623);
+    font-size: 24px;
+    font-weight: bold;
+    
+}
